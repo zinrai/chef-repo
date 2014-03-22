@@ -1,0 +1,10 @@
+{
+  "sources": {
+    "yum": {
+      "locked_version": "3.0.6"
+    },
+    "jenkins": {
+      "path": "./site-cookbooks/jenkins"
+    }
+  }
+}

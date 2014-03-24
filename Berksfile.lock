@@ -5,6 +5,9 @@
     },
     "jenkins": {
       "path": "./site-cookbooks/jenkins"
+    },
+    "vsftpd": {
+      "path": "./site-cookbooks/vsftpd"
     }
   }
 }
